@@ -1,3 +1,5 @@
+# accelerando
+
 ## A Chronicle of Events Leading to the Singularity[^1]
 
 # 2025
