@@ -64,6 +64,18 @@
 
 ***April 20***:  It is [reported](https://x.com/Yuchenj_UW/status/2046246166871089438) that Sergey Brin has formed a "strike team" at Google aimed at improving Google's coding AI models.  "The end goal is AI takeoff or AI that can improve itself… Brin has told staffers that improving Google AI’s coding abilities is a step toward that eventual goal."
 
+***April 23***: OpenAI releases GPT-5.5, which is based on "Spud" - a larger pre-trained model.  
+
+[roon posts](https://x.com/tszzl/status/2047386955550470245): 
+
+> there are early signs of 5.5 being a competent ai research partner. several researchers let 5.5 run variations of experiments overnight given only a high level algorithmic idea, wake up to find completed sweep dashboards and samples, never having touched code or a terminal at all
+
+[Aidan McLaughlin posts](https://x.com/aidan_mclau/status/2047388367705575701):
+
+> over break i dictated to 5.5 for minutes describing a new ambitious rl run. hit send and forgot about it as i hung out with friends and bf for a few days. returned on monday to an industrial-scale rl run humming after it worked for 31 hours
+
+Based on my private conversation with an OpenAI researcher, the model still does not qualify as an automated AI research intern because "we have a technical definition of a research intern that involves a lot more autonomy".
+
 [^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in June 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
 
 [^2]: GPT-Codex-5.1-Max was released on November 19, 2025.  GPT-Codex-5.2 was released on December 18, 2025.  GPT-5.3-Codex was released on February 5, 2026.
