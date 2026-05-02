@@ -76,6 +76,8 @@
 
 Based on my private conversation with an OpenAI researcher, the model still does not qualify as an automated AI research intern because "we have a technical definition of a research intern that involves a lot more autonomy".
 
+**April 29**:  It is [reported](https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5) that the Trump administration has opposed a broader roll-out of Anthropic's Project Glasswing "because of national-security risks posed by the model".  If true, this is the first known instance of the U.S. government attempting to block or restrict a roll-out of a frontier AI model.
+
 [^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in June 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
 
 [^2]: GPT-Codex-5.1-Max was released on November 19, 2025.  GPT-Codex-5.2 was released on December 18, 2025.  GPT-5.3-Codex was released on February 5, 2026.
