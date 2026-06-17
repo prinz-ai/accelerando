@@ -100,7 +100,11 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 
 ***June 12***:  The U.S. government, after having received a report from Amazon of an alleged serious vulnerability in Anthropic's Fable 5 and Mythos 5 models, [issues an export control directive to Anthropic](https://www.anthropic.com/news/fable-mythos-access) to suspend all access to these models by any foreign national, whether inside or outside the U.S., including foreign national Anthropic employees.  Anthropic suspends access to these models for all customers.
 
-***June 14***:  The Financial Times, quoting a person close to OpenAI, [reports](https://x.com/deredleritt3r/status/2066555668434239990) that, "in recent days, the industry has been working (with the U.S. government) on ensuring foreign national researchers could continue to work on developing the most advanced models".  This seems to indicate that the U.S. government has been looking to restrict foreign nationals from working on frontier models across the industry.
+***June 15***:  The Financial Times, quoting a person close to OpenAI, [reports](https://x.com/deredleritt3r/status/2066555668434239990) that, "in recent days, the industry has been working (with the U.S. government) on ensuring foreign national researchers could continue to work on developing the most advanced models".  This seems to indicate that the U.S. government has been looking to restrict foreign nationals from working on frontier models across the industry.
+
+***June 16***:  Sam Altman [reveals](https://x.com/deredleritt3r/status/2067019412960379007) that the fully automated AI researcher targeted by OpenAI for March 2028 would be able to "figure out completely new architectures", which seems to indicate that it would be superhuman or near-superhuman at ML research.[^5]
+
+***June 16***:  NVIDIA [introduces](https://x.com/DrJimFan/status/2066921736369766762) ENPIRE, a set of eight Codex agents given a fleet of robots, an allocation of GPUs and a generous token budget that is able to serve a variety of physical world tasks.  "All we did is to give Codex an API to the world of atoms, and the rest is emergence."  "We... discovered a new type of 'physical scaling': 8 robots exploring in parallel improves significantly faster than fewer ones."
 
 [^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in June 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
 
@@ -109,3 +113,6 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 [^3]: At this time, Anthropic was also engaged in a stand-off with the U.S. Department of War over Anthropic's demands to place contractual restrictions on the use of Claude for the Department's activities related to domestic mass surveillance and autonomous AI weapons.  The Department of War threatened to designate Anthropic a supply chain risk as a result of Anthropic's stance on this matter.
 
 [^4]: This announcement later mysteriously disappears from NIST's website.
+
+[^5]: Sam Altman also reveals that the automated AI research intern targeted for September 2026 will run on an equivalent of 500,000 A-100 GPUs.
+	
