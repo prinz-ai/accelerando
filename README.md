@@ -106,6 +106,8 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 
 ***June 16***:  NVIDIA [introduces](https://x.com/DrJimFan/status/2066921736369766762) ENPIRE, a set of eight Codex agents given a fleet of robots, an allocation of GPUs and a generous token budget that is able to serve a variety of physical world tasks.  "All we did is to give Codex an API to the world of atoms, and the rest is emergence."  "We... discovered a new type of 'physical scaling': 8 robots exploring in parallel improves significantly faster than fewer ones."
 
+***July 1***:  Access to Fable 5 is restored worldwide after [Anthropic agrees](https://www.anthropic.com/news/redeploying-fable-5) to implement various safeguards and work with the U.S. government on new safety protocols and standards, as well as releases of future models.
+
 [^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in June 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
 
 [^2]: GPT-Codex-5.1-Max was released on November 19, 2025.  GPT-Codex-5.2 was released on December 18, 2025.  GPT-5.3-Codex was released on February 5, 2026.
@@ -116,3 +118,5 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 
 [^5]: Sam Altman also reveals that the automated AI research intern targeted for September 2026 will run on an equivalent of 500,000 A-100 GPUs.
 	
+
+[^6]: As of early morning on July 1, 2026, OpenA
