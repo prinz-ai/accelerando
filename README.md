@@ -1,5 +1,5 @@
 # accelerando
-## A Chronicle of Events Leading to the Singularity[^1]
+## A Chronicle of Our Journey through the Singularity[^1]
 
 # 2025
 
@@ -46,7 +46,7 @@
 
 ***February 4***:  GPT-5.2 (high) is [finally scored by METR](https://x.com/METR_Evals/status/2019169900317798857), achieving new SOTA performances on its 50% benchmark (6 hrs 34 mins, beating Opus 4.5 by over an hour) and 80% benchnmark (55 mins, beating Opus 4.5 and Gemini 3 Pro by over 10 minutes).
 
-***February 5***:  [Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) and [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) are released on the same day.  OpenAI announces that GPT-5.3-Codex "[is our first model that was instrumental in creating itself"](https://x.com/deredleritt3r/status/2019475360438493597), with early versions of the model used to debug its own training, manage its own deployment, and diagnose test results and evaluations.  New Codex models are now being released on a monthly basis.[^2]. 
+***February 5***:  [Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) and [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) are released on the same day.  OpenAI announces that GPT-5.3-Codex "[is our first model that was instrumental in creating itself"](https://x.com/deredleritt3r/status/2019475360438493597), with early versions of the model used to debug its own training, manage its own deployment, and diagnose test results and evaluations.  New Codex models are now being released on nearly a monthly basis.[^2]. 
 
 ***February 8***:  [OpenAI's Super Bowl ad](https://x.com/OpenAI/status/2020649757434327362) features Alan Turing, Bayes' Theorem, scenes from Pantheon, and a book opening to a chapter entitled "The Singularity Is Near".
 
@@ -82,7 +82,7 @@ Based on my private conversation with an OpenAI researcher, the model still does
 
 ***May 4-5***:  It is [revealed](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) that the Trump Administration is considering the introduction of "government oversight" over new AI models, which could include "a formal government review process for AI models".  On May 5, NIST [announces](https://www.nist.gov/news-events/news/2026/05/caisi-signs-agreements-regarding-frontier-ai-national-security-testing) that CAISI has signed agreements with Google, Microsoft and xAI regarding "frontier AI national security testing" and has also renegotiated its existing agreements with OpenAI and Anthropic.[^4]  On the same day, Chris Lehane [confirms](https://x.com/deredleritt3r/status/2052013136337674294) that CAISI is testing GPT-5.5-Cyber and that OpenAI is partnering with the U.S. government on developing a "responsible deployment strategy" for this model, including how to provide it to U.S. federal, state and local governments, critical infrastructure operators and allies.
 
-***May 20***:  An unreleased OpenAI general reasoning model [solves the planar unit distance problem](https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf), a famous open question first posed by Paul Erdős in 1946.  The model had no scaffold, did not use Lean, and solved the problem completely autonomously, without any human involvement.  Noga Alon: "This has been one of Erdős' favorite problems, I have heard him myself mentioning the problem multiple times in his lectures.  I believe it would be fair to say that every mathematician working in Combinatorial Geometry thought about this problem, and lots of mathematicians working in other areas spent at least some time thinking about it."  Timothy Gowers: "If a human had written the paper and submitted it to the Annals of Mathematics... I would have recommended acceptance without any hesitation."
+***May 20***:  An unreleased OpenAI general reasoning model [provides a counterexample for the planar unit distance problem conjecture](https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf), a famous open question first posed by Paul Erdős in 1946.  The model had no scaffold, did not use Lean, and solved the problem completely autonomously, without any human involvement.  Noga Alon: "This has been one of Erdős' favorite problems, I have heard him myself mentioning the problem multiple times in his lectures.  I believe it would be fair to say that every mathematician working in Combinatorial Geometry thought about this problem, and lots of mathematicians working in other areas spent at least some time thinking about it."  Timothy Gowers: "If a human had written the paper and submitted it to the Annals of Mathematics... I would have recommended acceptance without any hesitation."
 
 A chart released by OpenAI [in an accompanying blog post](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) reveals that, remarkably, its internal model can solve the unit distance problem 48% of the time if provided sufficient compute.
 
@@ -110,7 +110,13 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 
 ***July 9***:  During the GPT-5.6 release livestream, OpenAI reveals that GPT-5.6 Sol fully autonomously post-trained GPT-5.6 Luna [from a simple prompt](https://x.com/tejalpatwardhan/status/2075272564629451110?s=20), something that "a team of senior researchers would have previously worked on"; this is followed by: "and now it really feels like the automated researcher is pretty close."
 
-[^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in June 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
+***July 19***:  Anthropic researcher Levent Alpöge asks "Fable"[^6] whether the Jacobian conjecture, a famous conjecture concerning polynomials in several variables, is false.  The model comes up with [a simple and beautiful counterexample](https://x.com/__alpoge__/status/2079028340955197566), disproving the conjecture.[^7]
+
+***July 20***:  OpenAI [reveals](https://openai.com/index/safety-alignment-long-horizon-models/) that an unreleased model "trained for long-running tasks", while working on the NanoGPT eval and under instructions to post its results only to the internal OpenAI Slack, instead decided to follow the standard NanoGPT instructions and upload its results to GitHub.  The model spent one hour finding a vulnerability in its sandbox environment, after which it exploited it, escaped the sandbox and uploaded a PR to GitHub.[^8]  In a separate incident, the model circumvented an authentication token scanner by splitting the token body into two fragments, obfuscating them, and then reconstructing the credential at runtime so that the complete token would never appear as one contiguous string.  Following these incidents, OpenAI paused internal deployment of the model for several weeks and implemented additional safeguards.
+
+***July 21***:  OpenAI [reveals](https://openai.com/index/hugging-face-model-evaluation-security-incident/) that a combination of GPT-5.6 Sol and an unreleased model,[^9] while working on the ExploitGym cybersecurity benchmark with OpenAI's cybersecurity safeguards purposely turned off by OpenAI, managed to escape their sandbox environment, obtain public internet access, and hack onto Hugging Face's servers, for purposes of accessing models, datasets and solutions for ExploitGym.[^10]
+
+[^1]: This chronicle starts in early 2025 with Anthropic's and OpenAI's releases of the first agentic coding models. The reader is well within his right to ask the author why this particular point was the one chosen as the threshold for crossing the event horizon. Would it not have been better to choose OpenAI's release of the first reasoning model (September 2024) as the threshold? Or perhaps the release of GPT-4? The release of GPT-3.5? Some even earlier ML milestone? The author agrees with this criticism and posits that, indeed, it is possible that mankind took its first firm step towards the singularity approximately 400,000 years ago when man first learned to control fire. Be that as it may, any chronicle has to start *somewhere*, and, in the author's view, having it start right before Sam Altman definitively wrote (in January 2025) that "we are past the event horizon; the takeoff has started" is as good a place as any. 
 
 [^2]: GPT-Codex-5.1-Max was released on November 19, 2025.  GPT-Codex-5.2 was released on December 18, 2025.  GPT-5.3-Codex was released on February 5, 2026.
 
@@ -119,6 +125,13 @@ A chart released by OpenAI [in an accompanying blog post](https://openai.com/ind
 [^4]: This announcement later mysteriously disappears from NIST's website.
 
 [^5]: Sam Altman also reveals that the automated AI research intern targeted for September 2026 will run on an equivalent of 500,000 A-100 GPUs.
-	
 
-[^6]: As of early morning on July 1, 2026, OpenA
+[^6]: Whether this model is Fable 5 or an unreleased internal model is unclear.  It is also unclear whether this proof required use of a harness or was achieved fully autonomously in one shot.
+
+[^7]: On the morning of July 20, OpenAI researcher Aaron Lou [shows](https://x.com/aaron_lou/status/2079218392452530249) that an "internal version of Codex" is also able to discover essentially the same counterexample.  Aaron confirms that the model completed this work fully autonomously, in one shot, and without any harness.  He also posts the [prompt](https://aaronlou.com/jacobian_counterexample_prompt.pdf) used to arrive at this counterexample.
+
+[^8]: This incident occurred not later than May 9, 2026, as explained [here](https://x.com/deredleritt3r/status/2079411857484353894).
+
+[^9]: It is not clear whether this was the same unreleased model as the one involved in the incidents reported on July 20, 2026.
+
+[^10]: My longer post evaluating this incident is available [here](https://x.com/deredleritt3r/status/2079743198713221499).
